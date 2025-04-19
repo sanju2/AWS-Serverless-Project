@@ -8,13 +8,22 @@
 
 - Step 1 : Clone this GitHub repository.
 
-![clonerepo](screenshots/1.clonerepo.png)
+- Step 2 : Deploy Amplify App.
+![Amplify](Screenshots/1.png)
 
-- Step 2 : Create Container registry.
+- Step 3 : Create Lambda Function.
+![Lambda](Screenshots/2.png)
 
-- Enable CORS in API Gateway
+- Step 4 : Create Rest API in APIGateway and Enable CORS in API Gateway.
+![APIGateway](Screenshots/3.png)
 
--
+- Step 5 - Assign IAM policy for Lambda Role.
+![IAM Role](Screenshots/4.png)
+
+- Step 6 - Create DynamoDB Table.
+![IAM Role](Screenshots/5.png)
+
+- Sample values for Test Application.
 
 Starbucks headquarters in Seattle, WA
 47.5975024
